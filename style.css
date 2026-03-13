@@ -24,6 +24,7 @@ h1 {
 }
 
 .footer {
+    cursor: pointer;
     text-align: center;
     margin: 0;
 }
